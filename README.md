@@ -1,4 +1,4 @@
-# VelikaZabava 🎮
+# VelikaZabava
 
 This C++ program is a helper tool for the online strategy game
 **Travian**.\
