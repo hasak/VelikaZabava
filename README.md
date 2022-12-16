@@ -50,13 +50,13 @@ Each line should contain:
 2.  Compile the program:
 
     ``` bash
-    g++ main.cpp -o travian-balance
+    g++ main.cpp -o vz
     ```
 
 3.  Run the program:
 
     ``` bash
-    ./travian-balance
+    ./vz
     ```
 
 4.  Results will be saved to `rezultat`.
